@@ -6,6 +6,6 @@ Este repositorio es una introducción práctica al uso de GitHub Codespaces como
 
 ## Archivos importantes
 
-- `index.js`: contiene el código de la aplicación Express.
-- `package.json`: define las dependencias y comandos del proyecto.
-- `.devcontainer/`: configura el entorno de desarrollo automáticamente.
+- [`index.js`](index.js): contiene el código de la aplicación Express.
+- [`package.json`](package.json): define las dependencias y comandos del proyecto.
+- [`.devcontainer/`](.devcontainer): configura el entorno de desarrollo automáticamente.
