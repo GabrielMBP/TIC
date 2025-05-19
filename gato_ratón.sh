@@ -1,14 +1,15 @@
 #!/bin/bash
 
-# Gato y ratón - historia animada
+# Gato y ratón - historia animada corregida para mejor visualización del ratón
 
 gato1=' /\_/\  '
 gato2='( o.o ) '
 gato3=' > ^ <  '
 
+# Ratón corregido - sin emojis y espaciado ajustado para mejor visualización en terminal
 raton1=' (\_/)  '
 raton2='( •_• ) '
-raton3=' / >🍪  '
+raton3=' / >o  '
 
 ancho=$(tput cols)
 max_pos=$((ancho - 15))
